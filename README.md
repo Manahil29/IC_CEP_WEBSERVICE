@@ -1,6 +1,4 @@
-Here’s a concise README for your project:
 
----
 
 # Bakery Payment Web Service
 
@@ -46,4 +44,3 @@ A Flask-based web service for managing bakery orders and payments with JWT-based
 - Update `SECRET_KEY` in the script for better security.
 - Requires Python 3.7+.
 
----
